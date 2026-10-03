@@ -104,7 +104,7 @@ Trust is verified on-chain. Supernova operates with full transparency regarding 
 
 * **Mainnet Program ID:** `SUPRv2...[REDACTED PENDING LAUNCH]...9kPz`
 
-* **Open Source Repository:** [github.com/supernova-protocol/svm-core](https://github.com) 
+* **Open Source Repository:** [https://github.com/Supernova-protocol/svm-core](https://github.com) 
 
 * **Security Audit:** A comprehensive smart contract audit is currently in progress with **OtterSec**. The full technical report will be published and linked directly in the repository prior to the Mainnet-Beta release.
 
